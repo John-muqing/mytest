@@ -7,5 +7,7 @@ public class User {
     private int age;
     public static void main(String[] args) {
         System.out.println("nidaye");
+        System.out.println("eqweqw");
     }
+
 }
